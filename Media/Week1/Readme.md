@@ -1,1 +1,1 @@
-
+This week focused on ideation and design. Initial sketches were made to figure out the structure of the wand, the classroom setup, and how all components would fit together. Based on this, basic 3D models were created in Blender to visualize the wand and plan the internal layout for the electronics. The goal during this stage was to translate the idea into something physically possible.
