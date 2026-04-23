@@ -1,1 +1,1 @@
-
+This week was mainly about building and testing. The wand was 3D printed in multiple iterations to adjust fitting and internal structure. At the same time, all electronic components like the MPU6050, NeoPixels, motors, and DFPlayer were tested individually. Circuit building was done on breadboards, and initial wiring for the full system started. Most of the physical prototype was completed by the end of this stage.
